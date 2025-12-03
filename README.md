@@ -19,7 +19,9 @@ A growth mindset means believing your abilities can improve throught effort and 
 3. Complete practicing consistently
 
 
-## Table of Contents of Code 102 Reading Notes: Intro to Software Development
+## Table of Contents
+
+### Code 102 Reading Notes: Intro to Software Development
 
 * [Read 1](102/Read-01-Learning-Markdown.md)
 * [Read 2](102/Read-02-The-Coders-Computer.md)
@@ -30,7 +32,7 @@ A growth mindset means believing your abilities can improve throught effort and 
 * [Read 7](102/Read-07.md)
 * [Read 8](102/Read-08.md)
 
-## Table of Contents of Code 201 Reading Notes: Foundations of Software Development
+### Code 201 Reading Notes: Foundations of Software Development
 
 * [Read 1](.md)
 * [Read 2](.md)
