@@ -1,10 +1,10 @@
 
 
-1. Version Control is a system that lets you save and revisit different versions of a file or project. A **Version Control System (VCS)** helps you go back to earlier versions, see what changed, who changed it, compare updates, and fix mistakes easily.
+# Version Control is a system that lets you save and revisit different versions of a file or project. A **Version Control System (VCS)** helps you go back to earlier versions, see what changed, who changed it, compare updates, and fix mistakes easily.
 
 ---
 
-2. Cloning in Git means making a copy of an existing Git repository from a server. You do this using the **`git clone`** command and the repository’s URL.
+# Cloning in Git means making a copy of an existing Git repository from a server. You do this using the **`git clone`** command and the repository’s URL.
 
     When you clone a repo:
 
@@ -18,7 +18,7 @@
         git clone https://github.com/test
 
 ---
-3. The command used to track and stage files is **`git add`**.
+# The command used to track and stage files is **`git add`**.
 
     To stage a single file:  
         ```
@@ -32,7 +32,7 @@
 
 ---
 
-4. Saving your changes in Git is called a **commit**, and Git creates a snapshot of your project when you commit.
+# Saving your changes in Git is called a **commit**, and Git creates a snapshot of your project when you commit.
 
     Commit staged changes with a message:
 
@@ -51,7 +51,7 @@
 
 ---
 
-5. To send your changes to a remote repository, referred to as "pushing changes", use:
+# To send your changes to a remote repository, referred to as "pushing changes", use:
 
         git push origin master
 

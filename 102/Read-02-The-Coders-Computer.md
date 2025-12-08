@@ -1,16 +1,16 @@
-# 1. What Are Four Important Features to Look for in a Text Editor?
+# What Are Four Important Features to Look for in a Text Editor?
 
 Choosing a text editor is a personal preference, but four important features include:
 
-1. **Code completion** — provides suggestions based on what you type, saving time and reducing typos.
-2. **Syntax highlighting** — colorizes code to improve readability and error-spotting.
-3. A good selection of **themes** — lets you customize background and text colors (e.g., dark mode to reduce eye strain).
-4. Support for **extensions** — add-ons that enhance functionality and allow the editor to grow with your needs.
+- **Code completion** — provides suggestions based on what you type, saving time and reducing typos.
+- **Syntax highlighting** — colorizes code to improve readability and error-spotting.
+- A good selection of **themes** — lets you customize background and text colors (e.g., dark mode to reduce eye strain).
+- Support for **extensions** — add-ons that enhance functionality and allow the editor to grow with your needs.
 
 ---
 
 
-# 2. What Do the Following Linux Commands Do?
+# What Do the Following Linux Commands Do?
 
 
 | Command | Definition / Action |
@@ -25,7 +25,7 @@ Choosing a text editor is a personal preference, but four important features inc
 ---
 
 
-# 3. Command Line Scenario Explained
+# Command Line Scenario Explained
 
 ## **`cd projects`**
 

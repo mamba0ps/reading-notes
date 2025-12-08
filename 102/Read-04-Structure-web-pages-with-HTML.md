@@ -1,4 +1,4 @@
-1. **HTML (HyperText Markup Language)** is a **markup language** and is the most basic building block of the Web. It is used to define the **meaning** and **structure** of web content.
+**HTML (HyperText Markup Language)** is a **markup language** and is the most basic building block of the Web. It is used to define the **meaning** and **structure** of web content.
 
     We use HTML because it applies *“markup”* to annotate text, images, and other content so it can be displayed in a web browser.
 
@@ -6,17 +6,17 @@
 
 
 
-2. The core components that make up an HTML structure include:
+The core components that make up an HTML structure include:
 
     - **Elements**, which are created using tags.
     The element name (e.g., `title`) surrounded by `\<` and `\>`.
-    - **Attributes**, which modify the element.
+    - **Attributes**, which modify and adds more detail the element.
     - **Content**, which is the text or media inside the tags.
 
-3. When you give an element extra information, it is called an **attribute**. Attributes configure or change the behavior of an element.
+When you give an element extra information, it is called an **attribute**. Attributes configure or change the behavior of an element.
 
 
-4. A **semantic element** is an HTML element where the **meaning or purpose** is clear from the element itself, not just how it looks.
+A **semantic element** is an HTML element where the **meaning or purpose** is clear from the element itself, not just how it looks.
 
     For example, the `\<h1>` element is semantic because it assigns the role of “top-level heading” to the text it wraps.
 
