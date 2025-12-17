@@ -1,3 +1,4 @@
+# Programming with JavaScript
 ## Control Flow
 
 **Control flow** refers to the order in which a computer runs the instructions (statements) in a program. Most of the time, code runs **one line at a time from top to bottom**. However, this normal flow can change when the program uses certain structures, such as **conditionals**, **loops**, or **functions**.
@@ -24,5 +25,6 @@ Functions help organize code, avoid repetition, and make programs easier to read
 To **invoke** or **call** a function means to **run the code inside the function**. Simply defining a function gives it a name and explains what it should do, but **the code does not run until the function is called**.
 
 For example, if a function named `square` has already been defined, calling it like this:
-
+```
     square(5);
+```

@@ -1,12 +1,13 @@
-# reading-notes
-# What Is Markdown?
+# Learning Markdown
 
-Markdown is a lightweight markup language used to add formatting to plain-text documents. Created by **John Gruber** in 2004, it has become one of the most widely used markup languages.  
-Unlike a WYSIWYG editor ( **W**hat **Y**ou **S**ee **I**s **W**hat **Y**ou **G**et ), where formatting appears instantly, Markdown uses simple syntax that remains readable even in its plain-text form.
+## Markdown
+
+**Markdown** is a lightweight markup language used to add formatting to plain-text documents and has become one of the most widely used markup languages.  
+Markdown uses simple syntax that remains readable even in its plain-text form.
 
 ---
 
-# Why Do We Use Markdown?
+## Why Use Markdown?
 
 - **Portability:** Markdown files can be opened by almost any application and aren’t locked behind proprietary formats.
 - **Platform Independence:** Works on any device or operating system.
@@ -16,25 +17,34 @@ Unlike a WYSIWYG editor ( **W**hat **Y**ou **S**ee **I**s **W**hat **Y**ou **G**
 
 ---
 
-# Headings in Markdown
+## Headings in Markdown
 
 To create a heading, add number signs (`#`) before your text.
 
 - **Largest heading:**  
-  `# Heading 1` (one `#`)
-- **Smallest heading:**  
-  `###### Heading 6` (six `#`)
+
+      # Heading 1
+    - (one `#`)
+
+- **Smallest heading:** 
+
+      ###### Heading 6
+    - (six `#`)
 
 ---
 
-# Emphasis (Bold & Italics)
+## Emphasis (Bold & Italics)
 
-For maximum compatibility, especially inside words, use **asterisks**, not underscores.
+For maximum compatibility, especially inside words, use **asterisks**, one `*` for *italic* and two `**` for **bold**: 
 
-- *Italic:*  
-  `*italic text*`
-- **Bold:**  
-  `**bold text**`
+      *italic text*
+
+  -  *italic text*
+
+      
+    **bold text**
+  
+- **bold text**
 
 ---
 

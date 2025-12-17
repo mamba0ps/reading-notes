@@ -1,6 +1,8 @@
-# What Are Four Important Features to Look for in a Text Editor?
+# The Coder's Computer
 
-Choosing a text editor is a personal preference, but four important features include:
+## Four important features for in a Text Editor?
+
+
 
 - **Code completion** — provides suggestions based on what you type, saving time and reducing typos.
 - **Syntax highlighting** — colorizes code to improve readability and error-spotting.
@@ -9,9 +11,7 @@ Choosing a text editor is a personal preference, but four important features inc
 
 ---
 
-
-# What Do the Following Linux Commands Do?
-
+## Basic Linux Commands 
 
 | Command | Definition / Action |
 |--------|----------------------|
@@ -21,34 +21,32 @@ Choosing a text editor is a personal preference, but four important features inc
 | **mkdir** | *Make Directory*. Creates a new folder. |
 | **touch** | Creates a new, empty file or updates an existing file’s timestamps. |
 
-
 ---
 
+## Example Commands and Arguments Explained
 
-# Command Line Scenario Explained
-
-## **`cd projects`**
+### **`cd projects`**
 
 - `cd` changes directories.
 - `projects` is a **relative path**.
 - Moves into the `projects` directory.
 
-## **`mkdir new-project`**
+### **`mkdir new-project`**
 
 - `mkdir` creates a new folder.
 - Creates a directory named `new-project` inside `projects`.
 
-## **`touch new-project/newfile.md`**
+### **`touch new-project/newfile.md`**
 
 - `touch` creates a file or updates its timestamp.
 - Creates `newfile.md` inside `new-project`.
 
-## **`cd ..`**
+### **`cd ..`**
 
 - `..` refers to the **parent directory**.
 - Moves back one level.
 
-## **`ls projects/new-project`**
+### **`ls projects/new-project`**
 
 - `ls` lists directory contents.
 - Uses a **relative path**.
