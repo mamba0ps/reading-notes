@@ -25,5 +25,4 @@ To **invoke** or **call** a function means to **run the code inside the function
 
 For example, if a function named `square` has already been defined, calling it like this:
 
-```js
-square(5);
+    square(5);

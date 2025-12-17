@@ -10,43 +10,57 @@ JavaScript allows variables to be used in flexible ways, including inside **func
 
 To declare a variable involves using specific keywords listed under JavaScript's statements and declarations, such as `var`, `let`, or `const`. 
 
-For example, a variable named `name` is declared using `let` in the statement `let name = prompt("Your name:", "");`.
+For example, a variable named `name` is declared using `let` in the statement 
+        
+        let name = prompt("Your name:", "");
 
 In this example:
 
-- var declares the variable
+- `let` declares the variable
 
-- name is the variable’s name
+- `name` is the variable’s name
 
-- The value returned by prompt() is stored in name
+- The value returned by `prompt()` is stored in name
 
 ---
 
 ## “assignment” operator
 
-The assignment operator is the equals sign (=). Its purpose is to assign a value to a variable. This means it connects the value on the right side of the operator to the variable on the left side.
+The **assignment operator** is the equals sign (`=`). Its purpose is to assign a value to a variable. This means it connects the value on the right side of the operator to the variable on the left side.
+
+Example:
+
+    var name = prompt(...);
 
 
+Here, the value returned by `prompt()` is assigned to the variable name.
 
+JavaScript also includes **compound assignment operators**, which combine an operation with assignment. These operators modify the existing value of a variable rather than replacing it entirely. 
 
+Common examples include:
 
+- **Addition assignment** `(+=)`
 
+- **Bitwise AND assignment** `(&=)`
 
+- **Division assignment** `(/=)`
 
-
-The primary assignment operator is the equals sign (`=`). Its function is to associate a value with a variable, as seen when the value returned by `prompt()` is associated with the variable `name` using this operator: `var name = prompt(...)`.
-
-JavaScript also features several compound assignment operators, including:
-
-*   **Addition assignment** (`+=`)
-*   **Bitwise AND assignment** (`&=`)
-*   **Division assignment** (`/=`)
-*   **Multiplication assignment** (`*=`)
+- **Multiplication assignment** `(*=)`
 
 ---
 
 ## Information received from the user
 
-Information received from the user is generally referred to as **input**. The sources describe two ways to receive this input: 
-- using the `prompt()` function, which shows a pop-up window with a text box the user can fill in and returns the **value in the text box**
-- using the `confirm()` function, which allows the developer to ask a Yes/No question and returns `true` or `false` based on the user's selection.
+Information entered by a user is referred to as **input**. JavaScript provides built-in functions that allow programs to receive this input and respond to it.
+
+Two common ways to receive user input are:
+
+- `prompt()`
+
+    Displays a pop-up window with a text box that the user can fill in. The function returns the value typed into the text box.
+
+- `confirm()`
+
+    Displays a Yes/No (OK/Cancel) pop-up window and returns true or false based on the user’s selection.
+
+These input methods allow JavaScript programs to interact with users and make decisions based on their responses.
