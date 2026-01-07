@@ -3,8 +3,7 @@
 
 Raymond-Alvarez-2025-2026
 
-
-## Hi, I'm Raymond!
+## Hi, I'm Raymond
 
 Check out my page [Github Reading Notes](https://ruby0x.github.io/reading-notes/)
 
@@ -12,7 +11,7 @@ Check out my page [Github Reading Notes](https://ruby0x.github.io/reading-notes/
 
 Essentially, adopting a growth mindset is like having a real enthusiasm for learning new things. This outlook can open up new pathways for creativity and possibility, allowing you to aim for and meet higher goals. When you are actively growing, you tend to feel better and get more done. This mindset also encourages you to see the success of colleagues as motivation, rather than feeling threatened by them.
 
-### <ins>Reminders for myself</ins>
+## Reminders for myself
 
 1. Persevere through challenges
 2. Self-reflect; welcome criticism
@@ -42,9 +41,6 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 * [Read 07/102 notes](Thoughts-and-Observations/7-Read-07-notes.md)
 * [Read 08/102 notes](Thoughts-and-Observations/8-Read-08-notes.md)
 
-
-
-
 ### Code 201 Reading Notes: Foundations of Software Development
 
 * [Read 1](.md)
@@ -62,7 +58,3 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 * [Read 13](.md)
 * [Read 14](.md)
 * [Read 15](.md)
-
-### Notes
-
-* [Thoughts and Observations](102/Thoughts-and-Observations.md)

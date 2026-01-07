@@ -2,11 +2,11 @@
 
 If HTML is the "skeleton" of a website, providing the basic structure and content, then **CSS (Cascading Style Sheets)** is the "interior decorator". Without CSS, the web would be a very plain-looking place where every site looks exactly like a generic document.
 
-#### How Browsers See Your Page
+### How Browsers See Your Page
 
 Every web browser has **default styles** it uses to make sure a page is readable even if you don't add any styling of your own. For example, headings are naturally larger than regular text, and links are usually blue and underlined. To get full control over a design, developers often use a **"Reset CSS."** This is a generic set of rules intended to **reduce inconsistencies** across different browsers—like Firefox or Chrome—so that everyone starts with the same blank slate for things like margins and font sizes.
 
-#### The Language of Style
+### The Language of Style
 
 CSS is a **rule-based language**. To change how something looks, you write a "rule" that tells the browser two things: **who** you are talking to and **what** you want to change.
 
@@ -25,17 +25,17 @@ The purpose of CSS is to **control exactly how HTML elements look** in a browser
 **What are the three ways to insert CSS into your project?**
 There are three standard ways to apply CSS to an HTML document:
 
-1.  **External CSS:** You link an entire separate `.css` file to your HTML using a `<link>` tag inside the `<head>` section. This is the best way to change the look of an entire website at once.
+1.**External CSS:** You link an entire separate `.css` file to your HTML using a `<link>` tag inside the `<head>` section. This is the best way to change the look of an entire website at once.
 2.  **Internal CSS:** You write your rules directly inside a `<style>` tag within the `<head>` section of a single HTML page. This is useful for styling a single, unique page.
 3.  **Inline CSS:** You add a `style` attribute directly to a specific HTML element. This applies a style to just that **one single element**.
 
 **Write an example of a CSS rule that would give all `<p>` elements red text.**
 A simple rule to target all paragraph (`<p>`) elements would look like this:
-```css
-p {
+
+* `p {
   color: red;
-}
-```
+  }
+`
 
 ***
 

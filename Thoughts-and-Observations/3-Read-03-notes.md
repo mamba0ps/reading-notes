@@ -20,18 +20,18 @@ Cloning is the process of creating a **local copy** of an existing Git repositor
 
 **What is the command to track and stage files?**
 To begin tracking a new file or to "stage" a modified file for your next snapshot, you use the **`git add`** command.
-*   To stage a specific file: `git add filename`.
-*   To stage all changed files at once: **`git add *`**.
+*To stage a specific file: `git add filename`.
+*To stage all changed files at once: **`git add *`**.
 
 **What is the command to take a snapshot of your changed files?**
 To permanently record your staged changes in the project history, you use the **`git commit`** command.
-*   The standard format is: **`git commit -m "your message here"`**.
-*   The message should briefly describe what changes were made in that snapshot.
+*The standard format is: **`git commit -m "your message here"`**.
+*The message should briefly describe what changes were made in that snapshot.
 
 **What is the command to send your changed files to GitHub?**
 To share your local commits with a remote server like GitHub, you use the **`git push`** command.
-*   The common command is: **`git push origin master`**.
-*   This sends your changes from your local "master" branch to the remote server (usually nicknamed "origin").
+*The common command is: **`git push origin master`**.
+*This sends your changes from your local "master" branch to the remote server (usually nicknamed "origin").
 
 ***
 

@@ -2,7 +2,7 @@
 
 Imagine you usually interact with your computer by pointing and clicking on icons—that’s the Graphical User Interface (GUI). The **Command Line** (or terminal) is like going behind the scenes to talk to the computer directly using text. It might seem intimidating, but it’s just a different way of "moving" through your digital house.
 
-#### 1. Finding Your Way Around (Navigation)
+#### Finding Your Way Around (Navigation)
 
 When you use a terminal, you are always "inside" a folder, which Linux calls a **directory**. Because there are no icons to show you where you are, you use these three basic tools:
 
