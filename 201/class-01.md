@@ -94,4 +94,3 @@ JavaScript is added using the **`<script>`** element. You can do this in two way
 *   **Internal:** Placing the code directly between `<script>` and `</script>` tags, usually at the bottom of the HTML body.
 *   **External:** Placing the code in a separate `.js` file and linking it in the HTML using the `src` attribute (e.g., `<script src="script.js"></script>`). Using `type="module"` in the head is the recommended modern way to ensure the HTML loads before the script runs,.
 
-## Things I want to know more about-
